@@ -1,0 +1,6 @@
+# Google Sheet → Telegram 投放系統（Streamlit 網頁版）
+# 安裝： pip install -r requirements.txt
+# 執行： streamlit run app.py
+streamlit>=1.40
+pandas>=2.0.0
+httpx>=0.27
